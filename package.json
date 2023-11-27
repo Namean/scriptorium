@@ -1,0 +1,12 @@
+{
+  "name": "scriptorium",
+  "version": "1.0.0",
+  "description": "A room set apart for writing, especially one in a monastery where manuscripts were copied",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
